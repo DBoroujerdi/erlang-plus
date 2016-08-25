@@ -27,7 +27,7 @@ To use this contribution add it to your =~/.spacemacs=
 | Key Binding   | Description        |
 |---------------+--------------------|
 | ~<SPC> m n i~ | Find code at point |
-| ~<SPC> m n o  | Find source unwind |
+| ~<SPC> m n o~ | Find source unwind |
 
 ** Short bindings
 | Key Binding   | Description        |
