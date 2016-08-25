@@ -12,8 +12,7 @@
  - [[Key bindings][Key bindings]]
    
 * Description
-This layer does wonderful things:
-  - thing01
+Erlang layer + EDTS
 
 * Install
 To use this contribution add it to your =~/.spacemacs=
@@ -24,6 +23,14 @@ To use this contribution add it to your =~/.spacemacs=
 
 * Key bindings
 
-| Key Binding     | Description    |
-|-----------------+----------------|
-| ~<SPC> x x x~   | Does thing01   |
+** Spacemacs bindings
+| Key Binding   | Description        |
+|---------------+--------------------|
+| ~<SPC> m n i~ | Find code at point |
+| ~<SPC> m n o  | Find source unwind |
+
+** Short bindings
+| Key Binding   | Description        |
+|---------------+--------------------|
+| ~M-.~         | Find code at point |
+| ~M-,~         | Find source unwind |
